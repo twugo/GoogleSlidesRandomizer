@@ -1,0 +1,2 @@
+# GoogleSlidesRandomizer
+Googleスライドをシャッフルする。
